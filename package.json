@@ -1,0 +1,17 @@
+{
+  "name": "discord-payment-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord de gestion de paiements",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "author": "Esteban",
+  "license": "ISC"
+}
